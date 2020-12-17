@@ -9,7 +9,7 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 
 Status:
 - Current Chapter: Introduction
-- CheckBoxes Completed: 0/37
+- CheckBoxes Completed: 0/28
 
 Introduction
 - [ ] Reading

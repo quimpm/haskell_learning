@@ -3,7 +3,10 @@
 In this repo I will put my Haskell learning path as well as links of talks and things that I listen to and find interesting.
 
 A good way to go is reading the book Learn you a Haskell (http://learnyouahaskell.com/) while doing, chapter after chapter, the exercices described by noelmarkham in https://github.com/noelmarkham/learn-you-a-haskell-exercises.
- 
+
+### Resources
+- [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+- [Journey to Functional Programming - Igal Tabachnik](https://www.youtube.com/watch?v=g1EvM4CbUvM)
 
 ### ROUTEMAP Learn You A Haskell
 

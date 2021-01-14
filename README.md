@@ -25,8 +25,8 @@ Starting Out
 
 
 Types and Typeclasses
-- [ ] Reading
-- [ ] Exercices
+- [X] Reading
+- [X] Exercices
 
 
 Syntax in Functions

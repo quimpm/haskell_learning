@@ -30,7 +30,7 @@ Types and Typeclasses
 
 
 Syntax in Functions
-- [ ] Reading
+- [ ] Reading -> Let it be!
 - [ ] Exercices
 
 

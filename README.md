@@ -30,8 +30,8 @@ Types and Typeclasses
 
 
 Syntax in Functions
-- [ ] Reading -> Let it be!
-- [ ] Exercices
+- [X] Reading
+- [X] Exercices
 
 
 Recursion

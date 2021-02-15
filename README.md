@@ -35,12 +35,12 @@ Syntax in Functions
 
 
 Recursion
-- [ ] Reading
-- [ ] Exercices
+- [X] Reading
+- [ ] Exercices -> Last still not working
 
 
 Higher Order Functions
-- [ ] Reading
+- [ ] Reading -> The Functional Programer's Toolbox
 - [ ] Exercices
 
 

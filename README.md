@@ -36,7 +36,7 @@ Syntax in Functions
 
 Recursion
 - [X] Reading
-- [ ] Exercices -> Last still not working
+- [X] Exercices
 
 
 Higher Order Functions

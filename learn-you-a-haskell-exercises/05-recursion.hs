@@ -60,14 +60,13 @@ stepReverseSign a b
  - You may find the stepReverseSign function handy
  -}
 
-piCalc :: (Fractional a, Integral b, Ord a) => a -> (a, b)  
+piCalc :: (Floating a, Integral b, Ord a) => a -> (a, b)  
 piCalc 0 = (0, 0)
 piCalc a = piCalc' 1 4 a 0
 
-piCalc' :: (Ord a, Fractional a, Integral b) => a -> a -> a -> b -> (a, b)
-piCalc' leibnizStep currentCalc tolerance nSteps
-    | currentToleranceCalc == objective = (currentCalc, nSteps)
-    | otherwise = piCalc' newLeibnizStep (if even nSteps then currentCalc - (4/newLeibnizStep) else currentCalc + (4/newLeibnizStep)) tolerance (nSteps+1)
+piCalc' :: (Ord a, Floating a, Integral b) => a -> a -> a -> b -> (a, b)
+piCalc' leibnizStep pi' tolerance nSteps
+    | abs (pi - pi') < tolerance = (pi', nSteps)
+    | otherwise = piCalc' newLeibnizStep (if even nSteps then pi' - (4/newLeibnizStep) else pi' + (4/newLeibnizStep)) tolerance (nSteps+1)
     where newLeibnizStep = leibnizStep + 2
-          currentToleranceCalc = floor ( currentCalc / tolerance )
-          objective = floor ( pi / tolerance )
+          

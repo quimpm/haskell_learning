@@ -40,7 +40,7 @@ Recursion
 
 
 Higher Order Functions
-- [ ] Reading -> The Functional Programer's Toolbox
+- [ ] Reading -> after foldr1 foldl1 (in the examples)
 - [ ] Exercices
 
 

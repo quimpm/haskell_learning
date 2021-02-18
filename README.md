@@ -40,8 +40,8 @@ Recursion
 
 
 Higher Order Functions
-- [ ] Reading -> after foldr1 foldl1 (in the examples)
-- [ ] Exercices
+- [X] Reading -> after foldr1 foldl1 (in the examples)
+- [X] Exercices
 
 
 Modules

@@ -12,8 +12,8 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 ### ROUTEMAP Learn You A Haskell
 
 Status:
-- Current Chapter: Recursion
-- CheckBoxes Completed: 7/28
+- Current Chapter: Modules
+- CheckBoxes Completed: 11/28
 
 Introduction
 - [X] Reading

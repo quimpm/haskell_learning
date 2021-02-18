@@ -13,7 +13,7 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 
 Status:
 - Current Chapter: Modules
-- CheckBoxes Completed: 11/28
+- CheckBoxes Completed: 11/24
 
 Introduction
 - [X] Reading

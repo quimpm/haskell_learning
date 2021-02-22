@@ -2,16 +2,21 @@ module DistanceConversions
 ( yardsToFeet
 , feetToInches
 , inchesToCentimetres
+, yardsToCentimeters
 ) where
 
 -- Define yards to feet
 yardsToFeet ::  Float -> Float
-yardsToFeet y = undefined
+yardsToFeet = (*) 3
 
 -- Define feet to inches
 feetToInches :: Float -> Float
-feetToInches f = undefined
+feetToInches =  (*) 12
 
 -- Define inches to centimetres
 inchesToCentimetres :: Float -> Float
-inchesToCentimetres i = undefined
+inchesToCentimetres = (*) 2.54
+
+--Define yards to Centimeters
+yardsToCentimeters :: Float -> Float 
+yardsToCentimeters = (*) 91.44

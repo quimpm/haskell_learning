@@ -12,8 +12,8 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 ### ROUTEMAP Learn You A Haskell
 
 Status:
-- Current Chapter: Modules
-- CheckBoxes Completed: 11/24
+- Current Chapter: Making Our Own Types and Typeclasses
+- CheckBoxes Completed: 13/24
 
 Introduction
 - [X] Reading
@@ -45,8 +45,8 @@ Higher Order Functions
 
 
 Modules
-- [ ] Reading
-- [ ] Exercices
+- [X] Reading
+- [X] Exercices
 
 
 Making Our Own Types and Typeclasses

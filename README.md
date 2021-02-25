@@ -50,7 +50,7 @@ Modules
 
 
 Making Our Own Types and Typeclasses
-- [ ] Reading
+- [ ] Reading -> Recursive Data Structures
 - [ ] Exercices
 
 

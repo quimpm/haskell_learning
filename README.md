@@ -13,7 +13,7 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 
 Status:
 - Current Chapter: Functionaly Solving Problems 
-- CheckBoxes Completed: 17/26
+- CheckBoxes Completed: 17/25
 
 Introduction
 - [X] Reading
@@ -60,7 +60,6 @@ Input and Output
 
 Functionally Solving Problems
 - [ ] Reading
-- [ ] Exercices
  
 Functors Aplicative Functors and Monoids
 - [ ] Reading

@@ -24,7 +24,7 @@ Also when I finish LYAH I will start with a course on advanced functional progra
 Status:
 - Current Path Step: STEP 1: Learn You A Haskell 
 - Current Chapter: Functionaly Solving Problems
-- CheckBoxes Completed: 17/25
+- CheckBoxes Completed: 17/42
 
 ### STEP 1: Learn You A Haskell
 

@@ -1,19 +1,30 @@
-# haskell_learning
+# Learning Haskell Path
 
 In this repo I will put my Haskell learning path as well as links of talks and things that I listen to and find interesting.
 
-A good way to go is reading the book Learn you a Haskell (http://learnyouahaskell.com/) while doing, chapter after chapter, the exercices described by noelmarkham in https://github.com/noelmarkham/learn-you-a-haskell-exercises.
+A good way to go is reading the book [Learn you a Haskell](http://learnyouahaskell.com/) while doing, chapter after chapter, the exercices described by noelmarkham in [learn-you-a-haskell-exercices](https://github.com/noelmarkham/learn-you-a-haskell-exercises).
+
+Also when I finish LYAH I will start with a course on advanced functional programming that a teacher recomended to me. The course is [Advanced Functional Programing](http://www.cs.nott.ac.uk/~pszgmh/afp.html) made by [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/)
 
 ### Resources
+####Exercices
+- [LYAH Chapter by Chapter](https://github.com/noelmarkham/learn-you-a-haskell-exercises) 
+- [CodeSignal](https://app.codesignal.com/arcade/intro)
+
 #### Talks
 - [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 - [Journey to Functional Programming - Igal Tabachnik](https://www.youtube.com/watch?v=g1EvM4CbUvM)
 
-### ROUTEMAP Learn You A Haskell
+#### Lectures
+
+## PATH
 
 Status:
-- Current Chapter: Functionaly Solving Problems 
+- Current Path Step: STEP 1: Learn You A Haskell 
+- Current Chapter: Functionaly Solving Problems
 - CheckBoxes Completed: 17/25
+
+### STEP 1: Learn You A Haskell
 
 Introduction
 - [X] Reading
@@ -77,4 +88,24 @@ For a Few Monads More
 
 Zippers
 - [ ] Reading
+
+### STEP 2: Advanced Functional Programing
+
+- [ ] Course Overview
+- [ ] Sudoku in Haskell |
+- [ ] Sudoku in Haskell ||
+- [ ] Sudoku in Haskell |||
+- [ ] Coursework 1: Connect Four
+- [ ] Functors
+- [ ] Aplicative Functors
+- [ ] Monads |
+- [ ] Monads ||
+- [ ] Monads |||
+- [ ] Monads |V
+- [ ] Coursework 2: Monadic compiler
+- [ ] Reasoning About Programs
+- [ ] Induction 
+- [ ] Making append vanish |
+- [ ] Making append vanish || 
+- [ ] Compiler correctness
 

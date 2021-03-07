@@ -7,7 +7,7 @@ A good way to go is reading the book [Learn you a Haskell](http://learnyouahaske
 Also when I finish LYAH I will start with a course on advanced functional programming that a teacher recomended to me. The course is [Advanced Functional Programing](http://www.cs.nott.ac.uk/~pszgmh/afp.html) made by [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/)
 
 ### Resources
-####Exercices
+#### Exercices
 - [LYAH Chapter by Chapter](https://github.com/noelmarkham/learn-you-a-haskell-exercises) 
 - [CodeSignal](https://app.codesignal.com/arcade/intro)
 

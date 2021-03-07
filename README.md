@@ -1,5 +1,7 @@
 # Learning Haskell Path
 
+!(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 In this repo I will put my Haskell learning path as well as links of talks and things that I listen to and find interesting.
 
 A good way to go is reading the book [Learn you a Haskell](http://learnyouahaskell.com/) while doing, chapter after chapter, the exercices described by noelmarkham in [learn-you-a-haskell-exercices](https://github.com/noelmarkham/learn-you-a-haskell-exercises).

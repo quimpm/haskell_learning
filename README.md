@@ -1,6 +1,6 @@
 # Learning Haskell Path
 
-!(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://i.redd.it/s0l1q498p8521.jpg "Momaso")
 
 In this repo I will put my Haskell learning path as well as links of talks and things that I listen to and find interesting.
 

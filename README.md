@@ -12,8 +12,8 @@ A good way to go is reading the book Learn you a Haskell (http://learnyouahaskel
 ### ROUTEMAP Learn You A Haskell
 
 Status:
-- Current Chapter: Making Our Own Types and Typeclasses
-- CheckBoxes Completed: 13/24
+- Current Chapter: Functionaly Solving Problems 
+- CheckBoxes Completed: 17/26
 
 Introduction
 - [X] Reading
@@ -50,19 +50,21 @@ Modules
 
 
 Making Our Own Types and Typeclasses
-- [ ] Reading -> Recursive Data Structures
-- [ ] Exercices
+- [X] Reading -> Recursive Data Structures
+- [X] Exercices
 
 
 Input and Output
-- [ ] Reading
-- [ ] Exercicies
-
+- [X] Reading
+- [X] Exercicies
 
 Functionally Solving Problems
 - [ ] Reading
 - [ ] Exercices
  
+Functors Aplicative Functors and Monoids
+- [ ] Reading
+- [ ] Exercices
 
 A Fistfull of Monads
 - [ ] Reading
